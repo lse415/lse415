@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwind&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=black)
 
 ## 🛠 프로젝트
 
@@ -17,7 +17,7 @@
 - 생성형AI를 이용한 대학생 설문조사 플랫폼
 - 설문 생성 페이지, 설문 참여 페이지, 마이페이지 제작
 - code : [Univey](https://github.com/ITTA-4-Team/Univey_Front)
-- skills : ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwind&logoColor=black)
+- skills : ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=black)
 
 ### CleanWay
 
