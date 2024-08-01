@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=64AEFF&fontColor=FFFFFF&height=300&section=header&text=🪼Seungeun's%20Hub🪼&fontSize=50)
 
 # Seungeun Lee's repository👋
+<br>
 
 ## 🔧 기술 스택
 
@@ -20,7 +21,7 @@
 ### CleanWay
 
 - 우리동네 플로깅 커뮤니티 앱
-- 폴로깅 팀원 모집, 팀별 커뮤니티, 플로깅 필요 장소 제보
+- 플로깅 팀원 모집, 팀별 커뮤니티, 플로깅 필요 장소 제보
 - 카카오 로그인, 네이버맵
 - code : [CleanWay](https://github.com/SWUCleanWay/CleanWay_FE)
 - skills : ![Flutter](https://img.shields.io/badge/Flutter-42CAF5?style=for-the-badge&logo=flutter&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-01B4AA?style=for-the-badge&logo=dart&logoColor=black)
@@ -31,8 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lse415&layout=compact&theme=radical)
 
 ## 🌱 활동
-
-### 활동
 
 | 기간              | 활동 유형 | 세부 사항                                                                                                                                                              |
 | ----------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
