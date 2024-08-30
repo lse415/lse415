@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=64AEFF&fontColor=FFFFFF&height=300&section=header&text=🪼Seungeun's%20Hub🪼&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=64AEFF&fontColor=FFFFFF&height=250&section=header&text=🪼Seungeun Lee🪼&fontSize=40)
 
 # Seungeun Lee's repository👋
 <br>
