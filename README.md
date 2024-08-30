@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=64AEFF&fontColor=FFFFFF&height=250&section=header&text=🪼Seungeun%20Lee🪼&fontSize=40&desc=Front-end%20Developer&descAlignY=65&descSize=15)
 
-
-
-# Seungeun Lee's repository👋
-<br>
-
 ## 🔧 기술 스택
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
