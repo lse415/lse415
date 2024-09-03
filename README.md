@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=black)
-
+<br></br>
 ## 🛠 프로젝트
 
 ### Univey
@@ -24,11 +24,17 @@
 - code : [CleanWay](https://github.com/SWUCleanWay/CleanWay_FE)
 - skills : ![Flutter](https://img.shields.io/badge/Flutter-42CAF5?style=for-the-badge&logo=flutter&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-01B4AA?style=for-the-badge&logo=dart&logoColor=black)
 
+### Artview (진행중)
+- 실시간 전시 기록 및 공유 앱 서비스
+- code : [Artview](https://github.com/Artview2024/Artview_FE)
+  
+<br></br>
 ## 📈 GitHub 통계
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lse415&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lse415&layout=compact&theme=radical)
 
+<br></br>
 ## 🌱 활동
 
 | 기간              | 활동 유형 | 세부 사항                                                                                                                                                              |
@@ -37,6 +43,7 @@
 | 2023.09 ~ 2024.01 | 동아리 | **IT'sTime**<br>대학생 IT 연합동아리 IT'sTime(잇타)의 프론트엔드 개발자<br>TEAM 불사조의 프론트엔드 개발 담당 - 대학생 설문조사 플랫폼 Univey 개발<br>(https://github.com/ITTA-4-Team/Univey_Front) |
 | 2022.08 ~ 2023.05 | 교환학생 | **🦬North Dakota State University**<br> **💻Computer Science** <br> |
 
+<br></br>
 ## 📫 연락처
 
 - 이메일: [leesuel0379@gmail.com](leesuel0379@gmail.com)
