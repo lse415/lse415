@@ -20,7 +20,7 @@
 
 - 우리동네 플로깅 커뮤니티 앱
 - 플로깅 팀원 모집, 팀별 커뮤니티, 플로깅 필요 장소 제보
-- 카카오 로그인, 네이버맵
+- 카카오 로그인, 네이버맵 api 사용
 - code : [CleanWay](https://github.com/SWUCleanWay/CleanWay_FE)
 - skills : ![Flutter](https://img.shields.io/badge/Flutter-42CAF5?style=for-the-badge&logo=flutter&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-01B4AA?style=for-the-badge&logo=dart&logoColor=black)
 
