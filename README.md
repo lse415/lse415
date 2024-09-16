@@ -31,8 +31,8 @@
 <br></br>
 ## 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lse415&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lse415&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lse415&show_icons=true&theme=pure)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lse415&layout=compact&theme=pure)
 
 <br></br>
 ## 🌱 활동
