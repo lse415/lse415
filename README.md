@@ -25,8 +25,7 @@
 - skills : ![Flutter](https://img.shields.io/badge/Flutter-42CAF5?style=for-the-badge&logo=flutter&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-01B4AA?style=for-the-badge&logo=dart&logoColor=black)
 
 ### Artview (진행중)
-- 실시간 전시 기록 및 공유 앱 서비스
-- 프론트엔드 
+- 실시간 전시 관람 기록 및 공유 앱 서비스
 - code : [Artview](https://github.com/Artview2024/Artview_FE)
   
 <br></br>
