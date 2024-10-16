@@ -26,6 +26,7 @@
 
 ### Artview (진행중)
 - 실시간 전시 관람 기록 및 공유 앱 서비스
+- 프론트엔드 전반
 - code : [Artview](https://github.com/Artview2024/Artview_FE)
   
 <br></br>
