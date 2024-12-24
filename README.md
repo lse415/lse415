@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=black)
 <br></br>
+<!--
 ## 🛠 프로젝트
 
 ### Univey
@@ -30,6 +31,7 @@
 - code : [Artview](https://github.com/Artview2024/Artview_FE)
   
 <br></br>
+-->
 ## 📈 GitHub 통계
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lse415&show_icons=true&theme=pure)
